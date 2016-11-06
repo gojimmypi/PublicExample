@@ -33,6 +33,9 @@ void loop()
 	Serial.println("More text here...");
 	Serial.println("la la la...");
 
-  /* add main program code here */
+	Serial.println("Branch test!");
+	Serial.println("More Branch data!");
+
+	/* add main program code here */
 
 }
