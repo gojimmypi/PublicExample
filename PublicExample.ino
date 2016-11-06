@@ -36,6 +36,8 @@ void loop()
 	Serial.println("Branch test!");
 	Serial.println("More Branch data!");
 
+	Serial.println("Branch 2 data!");
+	Serial.println("Commit 2 Branch 2 data!");
 	/* add main program code here */
 
 }
